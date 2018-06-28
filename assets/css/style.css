@@ -1,7 +1,5 @@
 body {
-    background-image: url("../images/02.jpeg");
-    background-size: cover;
-    /* position: absolute; -- this makes the css change for the rest of the page but background size changes if I leave alone */ 
+    background: rgb(145, 14, 14);
     width: 75%;
     margin: 0 auto;
 }
